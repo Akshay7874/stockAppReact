@@ -8,5 +8,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # stockAppReact
 
-#Deployed Link :
+# Command to run app
+1. npm i
+2. npm run build
+3. npm run start
+
+# Deployed Link :
 https://whimsical-paprenjak-81c8c0.netlify.app/
+
+# Library Used
+1. Axios
+2. Chart.js
+3. Redux Toolkit
